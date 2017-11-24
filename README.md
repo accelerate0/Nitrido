@@ -1,2 +1,0 @@
-# Nitrido
-PHP Shell

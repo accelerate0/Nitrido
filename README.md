@@ -13,6 +13,8 @@ Nitrido, if configured correctly, is Fully Undetectable by Anti Virus Vendors an
 
 All files should be saved as text files except for main.php
 
+NOTICE:
+there has been some complaints about my code being "unorganized", I could careless. :3
 =========
 
 TWO VERSIONS:
